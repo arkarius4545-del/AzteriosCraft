@@ -7,42 +7,116 @@
   },
   "rss": "https://raw.githubusercontent.com/arkarius4545-del/AzteriosCraft/main/news.rss",
   "servers": [
-    {
-      "id": "Azterios-1.21.1",
-      "name": "Azterios",
-      "description": "Servidor oficial de Azterios",
-      "icon": "https://raw.githubusercontent.com/arkarius4545-del/AzteriosCraft/main/server-icon.png",
-      "version": "1.0.0",
-      "address": "88.198.134.177:25577",
-      "minecraftVersion": "1.21.1",
-      "discord": {
-        "shortId": "Azterios",
-        "largeImageText": "Azterios",
-        "largeImageKey": "server"
-      },
-      "mainServer": true,
-      "autoconnect": true,
-     "modules": [
   {
-    "id": "net.minecraftforge:forge:1.21.1-52.1.14",
-    "name": "Minecraft Forge",
-    "type": "ForgeHosted",
-    "artifact": {
-      "size": 0,
-      "MD5": "",
-      "url": ""
-    },
-    "subModules": [
-      {
-        "id": "1.21.1-forge-52.1.14",
-        "name": "Forge Version",
-        "type": "VersionManifest",
-        "artifact": {
-          "size": 0,
-          "MD5": "",
-          "url": "https://raw.githubusercontent.com/arkarius4545-del/AzteriosCraft/main/forge/1.21.1-forge-52.1.14.json"
+"version": "1.0.0",
+"discord": {
+"clientId": "123456789012345678",
+"smallImageText": "AzteriosCraft",
+"smallImageKey": "icon"
+},
+"java": {
+"minVersion": "17",
+"recommendedVersion": "21"
+},
+"servers": [
+{
+"id": "Azterios-1.21.1",
+"name": "AzteriosCraft",
+"description": "Servidor NeoForge 1.21.1",
+"icon": "",
+"version": "1.0",
+"address": "88.198.134.177:25577",
+"minecraftVersion": "1.21.1",
+"mainServer": true,
+"autoconnect": true,
+"modules": [
+{
+"id": "net.neoforged:neoforge:1.21.1",
+"name": "NeoForge",
+"type": "ForgeHosted",
+"artifact": {
+"size": 0,
+"MD5": "",
+"url": ""
+},
+"subModules": [
+{
+"id": "1.21.1-neoforge",
+"name": "NeoForge Version",
+"type": "VersionManifest",
+"artifact": {
+"size": 0,
+"MD5": "",
+"url": "https://raw.githubusercontent.com/arkarius4545-del/AzteriosCraft/main/forge/1.21.1-forge-52.1.14.json"
+}
+},
+
+```
+        {
+          "id": "net.neoforged.fancymodloader:earlydisplay:4.0.42",
+          "name": "earlydisplay",
+          "type": "Library",
+          "artifact": {
+            "size": 261718,
+            "MD5": "",
+            "url": "https://maven.neoforged.net/releases/net/neoforged/fancymodloader/earlydisplay/4.0.42/earlydisplay-4.0.42.jar"
+          }
+        },
+        {
+          "id": "net.neoforged.fancymodloader:loader:4.0.42",
+          "name": "loader",
+          "type": "Library",
+          "artifact": {
+            "size": 504899,
+            "MD5": "",
+            "url": "https://maven.neoforged.net/releases/net/neoforged/fancymodloader/loader/4.0.42/loader-4.0.42.jar"
+          }
+        },
+        {
+          "id": "cpw.mods:modlauncher:11.0.5",
+          "name": "modlauncher",
+          "type": "Library",
+          "artifact": {
+            "size": 116486,
+            "MD5": "",
+            "url": "https://maven.neoforged.net/releases/cpw/mods/modlauncher/11.0.5/modlauncher-11.0.5.jar"
+          }
+        },
+        {
+          "id": "net.neoforged:coremods:7.0.3",
+          "name": "coremods",
+          "type": "Library",
+          "artifact": {
+            "size": 22659,
+            "MD5": "",
+            "url": "https://maven.neoforged.net/releases/net/neoforged/coremods/7.0.3/coremods-7.0.3.jar"
+          }
+        },
+        {
+          "id": "org.apache.logging.log4j:log4j-core:2.22.1",
+          "name": "log4j-core",
+          "type": "Library",
+          "artifact": {
+            "size": 1900022,
+            "MD5": "",
+            "url": "https://libraries.minecraft.net/org/apache/logging/log4j/log4j-core/2.22.1/log4j-core-2.22.1.jar"
+          }
+        },
+        {
+          "id": "com.google.guava:guava:32.1.2-jre",
+          "name": "guava",
+          "type": "Library",
+          "artifact": {
+            "size": 3041591,
+            "MD5": "",
+            "url": "https://libraries.minecraft.net/com/google/guava/guava/32.1.2-jre/guava-32.1.2-jre.jar"
+          }
         }
-      }
-    ]
-  }
+      ]
+    }
+  ]
+}
+```
+
 ]
+}
