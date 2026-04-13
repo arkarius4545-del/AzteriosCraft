@@ -1,13 +1,4 @@
 {
-  "version": "1.0.0",
-  "discord": {
-    "clientId": "123456789012345678",
-    "smallImageText": "Azterios",
-    "smallImageKey": "azterios"
-  },
-  "rss": "https://raw.githubusercontent.com/arkarius4545-del/AzteriosCraft/main/news.rss",
-  "servers": [
-  {
 "version": "1.0.0",
 "discord": {
 "clientId": "123456789012345678",
@@ -31,13 +22,13 @@
 "autoconnect": true,
 "modules": [
 {
-"id": "net.neoforged:neoforge:1.21.1",
-"name": "NeoForge",
+"id": "net.minecraftforge:forge:1.21.1-52.1.14",
+"name": "Minecraft Forge",
 "type": "ForgeHosted",
 "artifact": {
-"size": 0,
+"size": 1,
 "MD5": "",
-"url": ""
+"url": "https://raw.githubusercontent.com/arkarius4545-del/AzteriosCraft/main/dummy-forge.jar"
 },
 "subModules": [
 {
@@ -47,7 +38,7 @@
 "artifact": {
 "size": 0,
 "MD5": "",
-"url": "https://raw.githubusercontent.com/arkarius4545-del/AzteriosCraft/main/forge/1.21.1-forge-52.1.14.json"
+"url": "https://raw.githubusercontent.com/arkarius4545-del/AzteriosCraft/main/1.21.1-forge-52.1.14.json"
 }
 },
 
