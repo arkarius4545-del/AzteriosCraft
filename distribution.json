@@ -1,23 +1,19 @@
 {
   "version": "1.0.0",
-  "discord": {
-    "clientId": "",
-    "smallImageText": "Azterios",
-    "smallImageKey": ""
-  },
-  "java": {
-    "oracle": "https://adoptium.net/"
-  },
-  "rss": "",
   "servers": [
     {
       "id": "Azterios-1.21.1",
       "name": "Azterios",
       "description": "Servidor oficial de Azterios",
-      "icon": "",
+      "icon": "https://raw.githubusercontent.com/arkarius4545-del/AzteriosCraft/main/server-icon.png",
       "version": "1.0.0",
       "address": "88.198.134.177:25577",
       "minecraftVersion": "1.21.1",
+      "discord": {
+        "shortId": "Azterios",
+        "largeImageText": "Azterios",
+        "largeImageKey": "server"
+      },
       "mainServer": true,
       "autoconnect": true,
       "modules": []
