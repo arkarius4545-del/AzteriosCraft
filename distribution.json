@@ -1,5 +1,11 @@
 {
   "version": "1.0.0",
+  "discord": {
+    "clientId": "123456789012345678",
+    "smallImageText": "Azterios",
+    "smallImageKey": "azterios"
+  },
+  "rss": "https://raw.githubusercontent.com/arkarius4545-del/AzteriosCraft/main/news.rss",
   "servers": [
     {
       "id": "Azterios-1.21.1",
@@ -11,7 +17,7 @@
       "minecraftVersion": "1.21.1",
       "discord": {
         "shortId": "Azterios",
-        "largeImageText": "Azterios Server",
+        "largeImageText": "Azterios",
         "largeImageKey": "server"
       },
       "mainServer": true,
