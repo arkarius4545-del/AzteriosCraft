@@ -22,7 +22,27 @@
       },
       "mainServer": true,
       "autoconnect": true,
-      "modules": []
-    }
-  ]
-}
+     "modules": [
+  {
+    "id": "net.minecraftforge:forge:1.21.1-52.1.14",
+    "name": "Minecraft Forge",
+    "type": "ForgeHosted",
+    "artifact": {
+      "size": 0,
+      "MD5": "",
+      "url": ""
+    },
+    "subModules": [
+      {
+        "id": "1.21.1-forge-52.1.14",
+        "name": "Forge Version",
+        "type": "VersionManifest",
+        "artifact": {
+          "size": 0,
+          "MD5": "",
+          "url": "https://raw.githubusercontent.com/arkarius4545-del/AzteriosCraft/main/forge/1.21.1-forge-52.1.14.json"
+        }
+      }
+    ]
+  }
+]
