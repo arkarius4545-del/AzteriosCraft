@@ -11,7 +11,7 @@
       "minecraftVersion": "1.21.1",
       "discord": {
         "shortId": "Azterios",
-        "largeImageText": "Azterios",
+        "largeImageText": "Azterios Server",
         "largeImageKey": "server"
       },
       "mainServer": true,
