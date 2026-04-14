@@ -359,33 +359,33 @@
             },
 
             {
-              "id": "net.minecraft:client-srg:1.21.1-20240808.144430",
-              "name": "Minecraft Client SRG",
-              "type": "Library",
-              "artifact": {
-                "size": 0,
-                "MD5": "",
-                "url": "AQUI_TU_URL_DIRECTA_DEL_client-1.21.1-20240808.144430-srg.jar"
-              }
-            },
-            {
-              "id": "net.minecraft:client-extra:1.21.1-20240808.144430",
-              "name": "Minecraft Client Extra",
-              "type": "Library",
-              "artifact": {
-                "size": 0,
-                "MD5": "",
-                "url": "AQUI_TU_URL_DIRECTA_DEL_client-1.21.1-20240808.144430-extra.jar"
-              }
-            },
-            {
-              "id": "net.minecraft:client-slim:1.21.1-20240808.144430",
-              "name": "Minecraft Client Slim",
-              "type": "Library",
-              "artifact": {
-                "size": 0,
-                "MD5": "",
-                "url": "AQUI_TU_URL_DIRECTA_DEL_client-1.21.1-20240808.144430-slim.jar"
+               "id": "net.minecraft:client-srg:1.21.1-20240808.144430",
+  "name": "net.minecraft:client-srg:1.21.1-20240808.144430",
+  "type": "Library",
+  "artifact": {
+    "size": 0,
+    "MD5": "",
+    "url": "https://www.dropbox.com/scl/fi/67vr0tmvwbmp6fjuk1wi9/client-1.21.1-20240808.144430-srg.jar?rlkey=1xtx6b4ctxbplvbghp8rpebm2&st=rr5vlqai&dl=1"
+  }
+},
+{
+  "id": "net.minecraft:client-extra:1.21.1-20240808.144430",
+  "name": "net.minecraft:client-extra:1.21.1-20240808.144430",
+  "type": "Library",
+  "artifact": {
+    "size": 0,
+    "MD5": "",
+    "url": "https://www.dropbox.com/scl/fi/94zu27owmduftl5872e0b/client-1.21.1-20240808.144430-extra.jar?rlkey=h0pea328o667iogzvfacrbuxw&st=rwuinaz6&dl=1"
+  }
+},
+{
+  "id": "net.minecraft:client-slim:1.21.1-20240808.144430",
+  "name": "net.minecraft:client-slim:1.21.1-20240808.144430",
+  "type": "Library",
+  "artifact": {
+    "size": 0,
+    "MD5": "",
+    "url": "https://www.dropbox.com/scl/fi/zg1l2zds7fxj6s6pyt89x/client-1.21.1-20240808.144430-slim.jar?rlkey=r2ds9j3j2vc1fh4hmvbr52ydq&st=ev31ocn7&dl=1"
               }
             }
           ]
