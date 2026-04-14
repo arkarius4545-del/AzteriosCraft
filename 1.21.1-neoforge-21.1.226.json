@@ -5,6 +5,7 @@
   "type": "release",
   "mainClass": "cpw.mods.bootstraplauncher.BootstrapLauncher",
   "inheritsFrom": "1.21.1",
+  "jar": "1.21.1",
   "arguments": {
     "game": [
       "--fml.neoForgeVersion",
