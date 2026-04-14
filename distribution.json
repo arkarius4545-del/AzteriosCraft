@@ -23,17 +23,17 @@
           "artifact": {
             "size": 26836906,
             "MD5": "",
-            "url": "https://pixeldrain.com/api/file/axtg7Duz?download"
+            "url": "https://www.dropbox.com/scl/fi/e28o7w578u97x7c6i81f0/neoforge-21.1.226.jar?rlkey=lq2fwppnqed03i7wszepe2wu1&st=hpharqo6&dl=1"
           },
           "subModules": [
             {
               "id": "neoforge-21.1.226",
-              "name": "NeoForge Version Manifest",
-              "type": "VersionManifest",
-              "artifact": {
-                "size": 21148,
-                "MD5": "",
-                "url": "https://raw.githubusercontent.com/arkarius4545-del/AzteriosCraft/main/neoforge-21.1.226.json"
+          "name": "NeoForge Version Manifest",
+          "type": "VersionManifest",
+          "artifact": {
+          "size": 21148,
+          "MD5": "",
+          "url": "https://raw.githubusercontent.com/arkarius4545-del/AzteriosCraft/main/neoforge-21.1.226.json"
               }
             },
             {
