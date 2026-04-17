@@ -10,7 +10,7 @@
     {
       "id": "azterioscraft-1.20.1",
       "name": "AzteriosCraft",
-      "description": "AzteriosRPGAdventure",
+      "description": "azterioscraft Running Minecraft 1.20.1 (Forge v47.4.13)",
       "icon": null,
       "version": "1.0.0",
       "address": "88.198.134.177:25577",
@@ -23,7 +23,7 @@
       "mainServer": true,
       "autoconnect": true,
       "modules": [
-       {
+        {
           "id": "net.minecraftforge:lowcodelanguage:1.20.1-47.4.13",
           "name": "Minecraft Forge (lowcodelanguage)",
           "type": "ForgeHosted",
