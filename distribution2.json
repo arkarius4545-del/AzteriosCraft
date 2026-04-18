@@ -760,17 +760,7 @@
             "size": 1039046,
             "url": "https://azterios-launcher.b-cdn.net/servers/azterioscraft-1.20.1/forgemods/required/geckolib-forge-1.20.1-4.8.3.jar",
             "MD5": "33b0f8fe0a8d59fcf9d4e222741ecba7"
-          }
-        },
-        {
-          "id": "de.maxhenkel:gravestone:1.20.1-1.0.35@jar",
-          "name": "Gravestone Mod",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 317181,
-            "url": "https://azterios-launcher.b-cdn.net/servers/azterioscraft-1.20.1/forgemods/required/gravestone-forge-1.20.1-1.0.35.jar",
-            "MD5": "1670e9771981e234ecca27bf0106d5cd"
-          }
+          }      
         },
         {
           "id": "snownee.jade:jade:11.13.2+forge@jar",
