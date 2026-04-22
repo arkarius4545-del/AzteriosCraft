@@ -503,6 +503,16 @@
           }
         },
         {
+          "id": "earth.terrarium:athena:3.1.2@jar",
+          "name": "Athena",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 91808,
+            "url": "https://azterios-launcher.b-cdn.net/servers/azterioscraft-1.20.1/forgemods/required/athena-forge-1.20.1-3.1.2.jar",
+            "MD5": "2086e326e8f0ff2f8d7d05c66c291484"
+          }
+        },
+        {
           "id": "com.modrinth.dlyg3fux:mr_auto_replantcrops:1-v1@jar",
           "name": "Auto Replant Crops",
           "type": "ForgeMod",
@@ -550,6 +560,26 @@
             "size": 343925,
             "url": "https://azterios-launcher.b-cdn.net/servers/azterioscraft-1.20.1/forgemods/required/Bookshelf-Forge-1.20.1-20.2.15.jar",
             "MD5": "984cc53b314436f57e3bf72b8a1ba62b"
+          }
+        },
+        {
+          "id": "earth.terrarium:chipped:3.0.7@jar",
+          "name": "Chipped",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 15060263,
+            "url": "https://azterios-launcher.b-cdn.net/servers/azterioscraft-1.20.1/forgemods/required/chipped-forge-1.20.1-3.0.7.jar",
+            "MD5": "c6c76e78805b357757bf47b04c7286e7"
+          }
+        },
+        {
+          "id": "net.zsemper.chiselchippedintegration:chisel_chipped_integration:1.1.4-1.20.1@jar",
+          "name": "Chisel",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 2804717,
+            "url": "https://azterios-launcher.b-cdn.net/servers/azterioscraft-1.20.1/forgemods/required/chisel_chipped_integration-v1.1.6-1.20.1.jar",
+            "MD5": "d1e0630066e29a035d718138778f8c0c"
           }
         },
         {
@@ -610,6 +640,16 @@
             "size": 398066,
             "url": "https://azterios-launcher.b-cdn.net/servers/azterioscraft-1.20.1/forgemods/required/curios-forge-5.14.1+1.20.1.jar",
             "MD5": "2fdcc97cbc66c4b2492b407c792e7159"
+          }
+        },
+        {
+          "id": "net.gamerpotion:darkmobs:1.2.0@jar",
+          "name": "DarkMobs",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 18787,
+            "url": "https://azterios-launcher.b-cdn.net/servers/azterioscraft-1.20.1/forgemods/required/darkmobs-forge-1.20.1-1.2.0a.jar",
+            "MD5": "7b0709ec7bda828cbc4d9b77a8dcaf3f"
           }
         },
         {
@@ -963,6 +1003,16 @@
           }
         },
         {
+          "id": "xyz.iwolfking.rechiseledchipped:rechiseled_chipped:1.2@jar",
+          "name": "Rechiseled: Chipped",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 182898,
+            "url": "https://azterios-launcher.b-cdn.net/servers/azterioscraft-1.20.1/forgemods/required/rechiseled_chipped-2.0-1.20.1.jar",
+            "MD5": "2165ecf5328ff9fcee941014e4b5298c"
+          }
+        },
+        {
           "id": "com.supermartijn642:rechiseled:1.2.4@jar",
           "name": "Rechiseled",
           "type": "ForgeMod",
@@ -980,6 +1030,16 @@
             "size": 3300191,
             "url": "https://azterios-launcher.b-cdn.net/servers/azterioscraft-1.20.1/forgemods/required/refinedstorage-1.12.4.jar",
             "MD5": "aa6c64a4912eaef8478c5820fe03bbae"
+          }
+        },
+        {
+          "id": "com.teamresourceful:resourcefullib:2.1.29@jar",
+          "name": "Resourceful Lib",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 432753,
+            "url": "https://azterios-launcher.b-cdn.net/servers/azterioscraft-1.20.1/forgemods/required/resourcefullib-forge-1.20.1-2.1.29.jar",
+            "MD5": "a040c6cc86f653fddf280ff3af9068f0"
           }
         },
         {
