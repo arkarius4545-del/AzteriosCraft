@@ -701,27 +701,7 @@
             "url": "https://azterios-launcher.b-cdn.net/servers/azterioscraft-1.20.1/forgemods/required/DungeonsAriseSevenSeas-1.20.x-1.0.2-forge.jar",
             "MD5": "7438cb3ec55972c670e83effa52f8668"
           }
-        },
-        {
-          "id": "com.ferreusveritas:dynamictrees:1.20.1-1.4.10@jar",
-          "name": "Dynamic Trees",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 3754640,
-            "url": "https://azterios-launcher.b-cdn.net/servers/azterioscraft-1.20.1/forgemods/required/DynamicTrees-1.20.1-1.4.10.jar",
-            "MD5": "8e07943262bd8c95712ac3820d9e08a7"
-          }
-        },
-        {
-          "id": "maxhyper.dtalexsmobs:dtalexsmobs:1.20.1-1.0.0@jar",
-          "name": "Dynamic Trees for Alex's Mobs",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 53584,
-            "url": "https://azterios-launcher.b-cdn.net/servers/azterioscraft-1.20.1/forgemods/required/DynamicTreesAlexsMobs-1.20.1-1.0.0.jar",
-            "MD5": "e465880128e25171539ff287daf41e27"
-          }
-        },
+         },
         {
           "id": "echoesofthenetherstructures:echoes_of_the_nether_structures:1.00.1@jar",
           "name": "Echoes of The Nether ( Structures)",
